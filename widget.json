@@ -1,0 +1,6 @@
+{
+  "name": "MBTA Status",
+  "description": "Show the next three MBTA trains at a given station",
+  "author": "Joshua Wilcox",
+  "email": "me@joshuawilcox.net"
+}
